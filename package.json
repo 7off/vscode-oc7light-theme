@@ -2,7 +2,17 @@
     "name": "oc7-light",
     "displayName": "oc7-light",
     "description": "OC7 light theme for VS Code",
+    "icon": "images/oc7-icon.png",
     "version": "0.0.1",
+    "publisher": "7off",
+    "keywords": [
+        "Theme",
+        "Light Theme"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/7off/vscode-oc7light-theme.git"
+      },
     "engines": {
         "vscode": "^1.35.0"
     },
