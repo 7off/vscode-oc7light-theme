@@ -1,9 +1,5 @@
-# Change Log
+# OC7 Light theme Changelog
 
-All notable changes to the "oc7-light" extension will be documented in this file.
+## 0.0.1 (2019-06-23)
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Created OC7 Light theme
