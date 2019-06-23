@@ -1,0 +1,21 @@
+{
+    "name": "oc7-light",
+    "displayName": "oc7-light",
+    "description": "OC-7 light theme for VS Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "OC-7 light",
+                "uiTheme": "vs",
+                "path": "./themes/OC-7 light-color-theme.json"
+            }
+        ]
+    }
+}

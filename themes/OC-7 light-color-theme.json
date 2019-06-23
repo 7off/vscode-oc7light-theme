@@ -1,0 +1,12 @@
+{
+	"tokenColors": "./oc7-light.tmTheme",
+	"colors": {
+		"editor.background": "#f9f9f9",
+		"editorCursor.foreground": "#0099E1",
+		"editor.foreground": "#3775ae",
+		"editorWhitespace.foreground": "#A0A1A7",
+		"editor.lineHighlightBackground": "#f1f1f1",
+		"editor.selectionBackground": "#d2ecff"
+	},
+	"name": "OC-7 light"
+}
