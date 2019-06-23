@@ -5,6 +5,8 @@ This extension for Visual Studio Code adds light theme titled "OC7 Light".
 
 Copy it into the `<user home>/.vscode/extensions` folder and restart Code.
 
+## Screenshots
+
 ![HTML](images/html.png)
 
 ![JavaScript](images/js.png)
